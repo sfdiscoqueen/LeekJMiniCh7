@@ -13,3 +13,18 @@
 /Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/LeekJMiniCh7.pdb
 /Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/LeekJMiniCh7.genruntimeconfig.cache
 /Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/ref/LeekJMiniCh7.dll
+C:\Users\rsgoo\LeekJMiniCh7\bin\Debug\net6.0\LeekJMiniCh7.exe
+C:\Users\rsgoo\LeekJMiniCh7\bin\Debug\net6.0\LeekJMiniCh7.deps.json
+C:\Users\rsgoo\LeekJMiniCh7\bin\Debug\net6.0\LeekJMiniCh7.runtimeconfig.json
+C:\Users\rsgoo\LeekJMiniCh7\bin\Debug\net6.0\LeekJMiniCh7.dll
+C:\Users\rsgoo\LeekJMiniCh7\bin\Debug\net6.0\LeekJMiniCh7.pdb
+C:\Users\rsgoo\LeekJMiniCh7\obj\Debug\net6.0\LeekJMiniCh7.csproj.AssemblyReference.cache
+C:\Users\rsgoo\LeekJMiniCh7\obj\Debug\net6.0\LeekJMiniCh7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsgoo\LeekJMiniCh7\obj\Debug\net6.0\LeekJMiniCh7.AssemblyInfoInputs.cache
+C:\Users\rsgoo\LeekJMiniCh7\obj\Debug\net6.0\LeekJMiniCh7.AssemblyInfo.cs
+C:\Users\rsgoo\LeekJMiniCh7\obj\Debug\net6.0\LeekJMiniCh7.csproj.CoreCompileInputs.cache
+C:\Users\rsgoo\LeekJMiniCh7\obj\Debug\net6.0\LeekJMiniCh7.dll
+C:\Users\rsgoo\LeekJMiniCh7\obj\Debug\net6.0\refint\LeekJMiniCh7.dll
+C:\Users\rsgoo\LeekJMiniCh7\obj\Debug\net6.0\LeekJMiniCh7.pdb
+C:\Users\rsgoo\LeekJMiniCh7\obj\Debug\net6.0\LeekJMiniCh7.genruntimeconfig.cache
+C:\Users\rsgoo\LeekJMiniCh7\obj\Debug\net6.0\ref\LeekJMiniCh7.dll
