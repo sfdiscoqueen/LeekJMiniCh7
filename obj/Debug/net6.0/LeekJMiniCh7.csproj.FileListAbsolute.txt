@@ -1,0 +1,15 @@
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/bin/Debug/net6.0/LeekJMiniCh7
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/bin/Debug/net6.0/LeekJMiniCh7.deps.json
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/bin/Debug/net6.0/LeekJMiniCh7.runtimeconfig.json
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/bin/Debug/net6.0/LeekJMiniCh7.dll
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/bin/Debug/net6.0/LeekJMiniCh7.pdb
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/LeekJMiniCh7.csproj.AssemblyReference.cache
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/LeekJMiniCh7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/LeekJMiniCh7.AssemblyInfoInputs.cache
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/LeekJMiniCh7.AssemblyInfo.cs
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/LeekJMiniCh7.csproj.CoreCompileInputs.cache
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/LeekJMiniCh7.dll
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/refint/LeekJMiniCh7.dll
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/LeekJMiniCh7.pdb
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/LeekJMiniCh7.genruntimeconfig.cache
+/Users/jasmineleek/Documents/CodeStack 22-23/level1/homework/LeekJMiniCh7/obj/Debug/net6.0/ref/LeekJMiniCh7.dll
